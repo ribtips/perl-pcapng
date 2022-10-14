@@ -1,5 +1,7 @@
 package My::PcapNG;
 
+#This is a module to handle the reading of pcapng files
+
 use strict;
 use warnings;
 
