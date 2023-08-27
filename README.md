@@ -1,6 +1,5 @@
 # perl-pcapng
-
-I intend to build a pure perl pcapng parser module that interacts with the pcapng format.
+This is a pcapng parser written in pure perl.
 
 Currently the file parser has 2 modes:
 Mode1 - Read Whole File
